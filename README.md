@@ -17,11 +17,11 @@ Hi! My name is Slah eddine Ben Kacem 😄
   </a>
 </div>
 <details>
-  <summary><h2> <img align="center" src="https://github.com/slahbk/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="https://skillicons.dev/icons?i=gmail" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/slahbk/blob/main/icons/Gmail.gif" width="100"/>
+    <a href="mailto:slah.eddine.ben.kacem@gmail.com">
+      <img alt="Static Badge" src="https://img.shields.io/badge/-send%20email-red?style=social&logo=gmail">
     </a>
   </p>
 </details>
