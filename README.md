@@ -16,11 +16,12 @@ Hi! My name is Slah eddine Ben Kacem 😄
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<details>
-  <summary><h2> <img align="center" src="https://skillicons.dev/icons?i=gmail" width="30"/> Contact Me</h2></summary>
+
+### Contact Me
+
   <p>
     <a href="mailto:slah.eddine.ben.kacem@gmail.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/-send%20email-red?style=social&logo=gmail">
     </a>
   </p>
-</details>
+
