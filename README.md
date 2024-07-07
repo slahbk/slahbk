@@ -17,7 +17,7 @@ Hi! My name is Slah eddine Ben Kacem 😄
     <h4>Databases</h4>
       <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb">
     <h4>Tools</h4>
-      <img src="https://skillicons.dev/icons?i=github,git,vscode,npm,bun,postman">
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,npm,bun,postman,vercel">
   </div>
   <br/>
 
