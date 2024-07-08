@@ -28,7 +28,7 @@ Hi! My name is Slah eddine Ben Kacem 😄
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slahbk&theme=react">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slahbk&theme=react">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slahbk&theme=react">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slahbk&theme=react">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slahbk&theme=react&utcOffset=1">
   </div>
 <br/>
   
