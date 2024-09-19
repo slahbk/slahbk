@@ -13,7 +13,7 @@ Hi! My name is Slah eddine Ben Kacem 😄
     <h4>Front-End</h4>
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,mui,redux">
     <h4>Back-End</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,nestjs">
     <h4>Databases</h4>
       <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb">
     <h4>Tools</h4>
